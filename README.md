@@ -75,6 +75,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, feel free to contact us at [zain.javed.965@gmail.com](mailto:zain.javed.965@gmail.com).
 
 Thank you for using Alfaaz Archivez! We hope you find it helpful and easy to use.
